@@ -6,3 +6,4 @@ Things I made for myself that others may find useful.
   - Large black circle and perimeter squares: Aspect ratio, crop/overscan
   - Color sectors: Balance/bias, maximum saturation (image is effectively 1 bpc)
   - Checkerboard pattern squares: The highest one where distinct alternating pixels can be seen (use a magnifying glass!) is the true resolution of the display. Non-listed resolutions require non-integer downscaling from 8K and won't be accurate. Might also be off depending on the renderer.
+- `intl.reg`: Importable Windows registry file containing my preferred choices for number, date and time formats. Represents international/canonical formats that I find agreeable (similar to the `C` or `EN_XX` locales for Linux). Also works on Wine!
